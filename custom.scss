@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+$body-bg: #090C02;
+$body-color: #fff;
+$link-color: #FADF63;
+
+$presentation-font-size-root: 36px;
+$presentation-heading-line-height: 1;
+
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+img {
+  border-radius: 15px;
+}
+
+p.subtitle {
+  margin-top: 2rem;
+}
+
+.quarto-title-author-name {
+  font-size: 1.25rem;
+}

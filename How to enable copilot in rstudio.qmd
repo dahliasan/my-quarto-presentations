@@ -1,0 +1,48 @@
+---
+title: "10x your coding in <span style='color: #93A3B1;'>RStudio</span> with <span style='color: #FADF63;'>GitHub Copilot</span> for 🆓"
+subtitle: "(if you're a student or teacher)<br>...a super ez 6-step guide"
+author: "by dahlia foo"
+format:
+  revealjs:
+    theme: [night, custom.scss]
+    touch: true
+    controls: true
+    transition: slide
+    navigation-mode: vertical
+    link-external-newwindow: true
+    link-external-icon: true
+---
+
+# [GitHub Copilot](https://docs.github.com/en/copilot) is an
+
+“AI pair programmer that offers autocomplete-style suggestions as you code”.
+
+![](images/clipboard-1556786454.png)
+
+# 1️⃣ Set up a GitHub account
+
+If you don't already have one, [create a GitHub account](https://github.com/join?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Dde7e3b6548f2ed9bbceb%26redirect_uri%3Dhttps%253A%252F%252Feducation.github.com%252Fauth%252Fgithubber%252Fcallback%26response_type%3Dcode%26scope%3Dread%253Auser%26state%3Dd8c442f70778987acc6b4d0e9d81501b0397e067b0285510&source=oauth). You will need this to use GitHub Copilot.
+
+# 2️⃣ Verify your status
+
+GitHub Copilot is free for [**verified**]{.underline} students, teachers, and maintainers of popular open-source projects.
+
+Not yet verified? [Join GitHub Global Campus and get verified](https://education.github.com/discount_requests/application).
+
+# 3️⃣ Install R and RStudio
+
+Ensure that you have [R and RStudio](https://posit.co/download/rstudio-desktop/) installed on your computer.
+
+# 4️⃣ Make sure you have the latest version of RStudio
+
+GitHub Copilot is available for [RStudio Desktop `2023.09.0`](https://posit.co/download/rstudio-desktop/) and later.
+
+# 5️⃣ Enable Github Copilot in RStudio
+
+In RStudio, navigate to `Tools` \> `Global Options` \> `Copilot` and check `"Enable GitHub Copilot"`.
+
+Then follow the instructions to complete the sign-in process to your GitHub account.
+
+# 6️⃣ Start coding 👩🏻‍💻
+
+Open a source file (`.R`, `.py`, `.qmd`, etc) and begin coding with Copilot. Have fun and enjoy the ✨magic!

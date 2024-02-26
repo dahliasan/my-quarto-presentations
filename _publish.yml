@@ -1,0 +1,4 @@
+- source: How to enable copilot in rstudio.qmd
+  quarto-pub:
+    - id: 18f61311-e27b-4013-9eed-80da5a9d98af
+      url: 'https://dahliasan.quarto.pub/copilot-rstudio-setup-tutorial'
